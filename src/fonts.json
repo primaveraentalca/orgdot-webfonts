@@ -1,0 +1,86 @@
+[
+	{
+		"class": "orgdot-fixed-bold",
+		"family": "fixed_bold"
+	},
+	{
+		"class": "orgdot-fixed-v01",
+		"family": "fixed_v01"
+	},
+	{
+		"class": "orgdot-fixed-v02",
+		"family": "fixed_v02"
+	},
+	{
+		"class": "orgdot-fixed-v03",
+		"family": "fixed_v03"
+	},
+	{
+		"class": "orgdot-fixed-v05",
+		"family": "fixed_v05"
+	},
+	{
+		"class": "orgdot-gab-net-bold",
+		"family": "GAB.NET Bold"
+	},
+	{
+		"class": "orgdot-gab-net-plain",
+		"family": "GAB.NET"
+	},
+	{
+		"class": "orgdot-genown-v01",
+		"family": "genown_v01"
+	},
+	{
+		"class": "orgdot-kharon4a-bold",
+		"family": "Kharon4a Bold"
+	},
+	{
+		"class": "orgdot-kharon4a-v01",
+		"family": "Kharon4a_v01"
+	},
+	{
+		"class": "orgdot-kharon4amini",
+		"family": "kharon4a_mini"
+	},
+	{
+		"class": "orgdot-org-v01",
+		"family": "Org_v01"
+	},
+	{
+		"class": "orgdot-pixelpunch",
+		"family": "pixelpunch"
+	},
+	{
+		"class": "orgdot-serif-v01",
+		"family": "serif_v01"
+	},
+	{
+		"class": "orgdot-swfitslmfw",
+		"family": "swfit_slm_fw"
+	},
+	{
+		"class": "orgdot-swft-v01",
+		"family": "SWF!T_v01"
+	},
+	{
+		"class": "orgdot-swft-v02",
+		"family": "SWF!T_v02"
+	},
+	{
+		"class": "orgdot-teachers-pet-bold",
+		"family": "Teachers Pet Bold"
+	},
+	{
+		"class": "orgdot-teachers-pet-sans-serif-bold",
+		"family": "Teachers Pet Sans Serif Bold"
+	},
+	{
+		"class": "orgdot-teachers-pet-sans-serif",
+		"family": "Teachers Pet Sans Serif"
+	},
+	{
+		"class": "orgdot-teachers-pet",
+		"family": "Teachers Pet"
+	}
+]
