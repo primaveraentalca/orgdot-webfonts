@@ -24,6 +24,14 @@ cat << _NPM_ > $folder/package.json
 }
 _NPM_
 
+echo $folder/.gitignore
+
+cat << _GIT_ > $folder/.gitignore
+*.woff
+*.woff2
+*.css
+*.tgz
+_GIT_
 
 echo $folder/README.md
 
