@@ -120,10 +120,10 @@ body {
     font-style: normal;
 }
 @font-face {
-    font-family: 'genown_v01';
+    font-family: 'genown';
     src: local('genown_v01'), local('Genownv01'),
-        url('Genownv01.ff86fd6b.woff2') format('woff2'),
-        url('Genownv01.f408db0e.woff') format('woff');
+        url('Genownv01.9561fd72.woff2') format('woff2'),
+        url('Genownv01.01e4debc.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
@@ -144,10 +144,10 @@ body {
     font-style: normal;
 }
 @font-face {
-    font-family: 'Kharon4a_v01';
+    font-family: 'Kharon4a';
     src: local('Kharon4a_v01'), local('Kharon4av01'),
-        url('Kharon4av01.f5d8ca19.woff2') format('woff2'),
-        url('Kharon4av01.8f7eaae5.woff') format('woff');
+        url('Kharon4av01.6a7e6d38.woff2') format('woff2'),
+        url('Kharon4av01.6646754b.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }

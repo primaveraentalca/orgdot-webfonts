@@ -1378,14 +1378,14 @@ module.exports = [{
 	"class": "orgdot-gab-net-plain",
 	"family": "GAB.NET"
 }, {
-	"class": "orgdot-genown-v01",
-	"family": "genown_v01"
+	"class": "orgdot-genown",
+	"family": "genown"
 }, {
 	"class": "orgdot-kharon4a-bold",
 	"family": "Kharon4a Bold"
 }, {
-	"class": "orgdot-kharon4a-v01",
-	"family": "Kharon4a_v01"
+	"class": "orgdot-kharon4a",
+	"family": "Kharon4a"
 }, {
 	"class": "orgdot-kharon4amini",
 	"family": "kharon4a_mini"
@@ -1838,15 +1838,15 @@ function unregister() {
 
 },{"./GABNETBold.woff2":[["GABNETBold.95c1dcab.woff2","Byda"],"Byda"],"./GABNETBold.woff":[["GABNETBold.382bc3b6.woff","/E4V"],"/E4V"]}],"N1W6":[function(require,module,exports) {
 
-},{"./GABNETPlain.woff2":[["GABNETPlain.dff5cebb.woff2","OkJg"],"OkJg"],"./GABNETPlain.woff":[["GABNETPlain.39ad1d13.woff","xsku"],"xsku"]}],"fPxd":[function(require,module,exports) {
+},{"./GABNETPlain.woff2":[["GABNETPlain.dff5cebb.woff2","OkJg"],"OkJg"],"./GABNETPlain.woff":[["GABNETPlain.39ad1d13.woff","xsku"],"xsku"]}],"ZnJe":[function(require,module,exports) {
 
-},{"./Genownv01.woff2":[["Genownv01.ff86fd6b.woff2","7FWo"],"7FWo"],"./Genownv01.woff":[["Genownv01.f408db0e.woff","wdWC"],"wdWC"]}],"dFIf":[function(require,module,exports) {
+},{"./Genownv01.woff2":[["Genownv01.9561fd72.woff2","4U61"],"4U61"],"./Genownv01.woff":[["Genownv01.01e4debc.woff","CNjy"],"CNjy"]}],"dFIf":[function(require,module,exports) {
 
 },{"./Kharon4aBold.woff2":[["Kharon4aBold.68f434d2.woff2","/T9A"],"/T9A"],"./Kharon4aBold.woff":[["Kharon4aBold.e762b2af.woff","AEaF"],"AEaF"]}],"HWh4":[function(require,module,exports) {
 
-},{"./Kharon4amini.woff2":[["Kharon4amini.de65e001.woff2","xd9I"],"xd9I"],"./Kharon4amini.woff":[["Kharon4amini.e95be036.woff","LjDh"],"LjDh"]}],"yBgy":[function(require,module,exports) {
+},{"./Kharon4amini.woff2":[["Kharon4amini.de65e001.woff2","xd9I"],"xd9I"],"./Kharon4amini.woff":[["Kharon4amini.e95be036.woff","LjDh"],"LjDh"]}],"YLYe":[function(require,module,exports) {
 
-},{"./Kharon4av01.woff2":[["Kharon4av01.f5d8ca19.woff2","3GzR"],"3GzR"],"./Kharon4av01.woff":[["Kharon4av01.8f7eaae5.woff","2AhQ"],"2AhQ"]}],"B58L":[function(require,module,exports) {
+},{"./Kharon4av01.woff2":[["Kharon4av01.6a7e6d38.woff2","wm2a"],"wm2a"],"./Kharon4av01.woff":[["Kharon4av01.6646754b.woff","24ht"],"24ht"]}],"B58L":[function(require,module,exports) {
 
 },{"./Orgv01.woff2":[["Orgv01.a17c4bae.woff2","rkA2"],"rkA2"],"./Orgv01.woff":[["Orgv01.b20b07e0.woff","v2TZ"],"v2TZ"]}],"us+o":[function(require,module,exports) {
 
@@ -1901,13 +1901,13 @@ require('../packages/orgdot-gab-net-bold');
 
 require('../packages/orgdot-gab-net-plain');
 
-require('../packages/orgdot-genown-v01');
+require('../packages/orgdot-genown');
 
 require('../packages/orgdot-kharon4a-bold');
 
 require('../packages/orgdot-kharon4amini');
 
-require('../packages/orgdot-kharon4a-v01');
+require('../packages/orgdot-kharon4a');
 
 require('../packages/orgdot-org-v01');
 
@@ -1939,5 +1939,5 @@ _reactDom2.default.render(_react2.default.createElement(_App2.default, null), do
 // unregister() to register() below. Note this comes with some pitfalls.
 // Learn more about service workers: http://bit.ly/CRA-PWA
 serviceWorker.unregister();
-},{"react":"1n8/","react-dom":"NKHc","./index.css":"9BSY","./App":"eBcb","./serviceWorker":"Yw6x","../packages/orgdot-fixed-bold":"++j7","../packages/orgdot-fixed-v01":"XSL8","../packages/orgdot-fixed-v02":"OJiq","../packages/orgdot-fixed-v03":"17aM","../packages/orgdot-fixed-v05":"jtr0","../packages/orgdot-gab-net-bold":"7djZ","../packages/orgdot-gab-net-plain":"N1W6","../packages/orgdot-genown-v01":"fPxd","../packages/orgdot-kharon4a-bold":"dFIf","../packages/orgdot-kharon4amini":"HWh4","../packages/orgdot-kharon4a-v01":"yBgy","../packages/orgdot-org-v01":"B58L","../packages/orgdot-pixelpunch":"us+o","../packages/orgdot-serif-v01":"HzkA","../packages/orgdot-swfitslmfw":"PILw","../packages/orgdot-swft-v01":"se0C","../packages/orgdot-swft-v02":"BrnV","../packages/orgdot-teachers-pet":"7REQ","../packages/orgdot-teachers-pet-bold":"9Pll","../packages/orgdot-teachers-pet-sans-serif":"BRlA","../packages/orgdot-teachers-pet-sans-serif-bold":"y56R"}]},{},["2u/B"], null)
-//# sourceMappingURL=/orgdot-webfonts/src.d6bedc03.map
+},{"react":"1n8/","react-dom":"NKHc","./index.css":"9BSY","./App":"eBcb","./serviceWorker":"Yw6x","../packages/orgdot-fixed-bold":"++j7","../packages/orgdot-fixed-v01":"XSL8","../packages/orgdot-fixed-v02":"OJiq","../packages/orgdot-fixed-v03":"17aM","../packages/orgdot-fixed-v05":"jtr0","../packages/orgdot-gab-net-bold":"7djZ","../packages/orgdot-gab-net-plain":"N1W6","../packages/orgdot-genown":"ZnJe","../packages/orgdot-kharon4a-bold":"dFIf","../packages/orgdot-kharon4amini":"HWh4","../packages/orgdot-kharon4a":"YLYe","../packages/orgdot-org-v01":"B58L","../packages/orgdot-pixelpunch":"us+o","../packages/orgdot-serif-v01":"HzkA","../packages/orgdot-swfitslmfw":"PILw","../packages/orgdot-swft-v01":"se0C","../packages/orgdot-swft-v02":"BrnV","../packages/orgdot-teachers-pet":"7REQ","../packages/orgdot-teachers-pet-bold":"9Pll","../packages/orgdot-teachers-pet-sans-serif":"BRlA","../packages/orgdot-teachers-pet-sans-serif-bold":"y56R"}]},{},["2u/B"], null)
+//# sourceMappingURL=/orgdot-webfonts/src.a78d93c4.map
