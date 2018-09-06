@@ -1,16 +1,16 @@
-# orgdot-kharon4a-v01
-The CSS and web font files to easily self-host Orgdot Kharon4a_v01.
+# orgdot-kharon4a
+The CSS and web font files to easily self-host Orgdot Kharon4a.
 
 ## Requirements
 You need to have webpack setup to load CSS and font files.<br />For many tools built with Webpack such as [Gatsby](https://github.com/gatsbyjs/gatsby") and [Create React App](https://github.com/facebookincubator/create-react-app), it should work out-of-the-box.<br />Also tested with [ParcelJS](https://parceljs.org/) bundler.
 
 ## Install
-First, install like any other package<br />`npm install --save orgdot-kharon4a-v01`
+First, install like any other package<br />`npm install --save orgdot-kharon4a`
 
 ## Usage
-Require the package in your entry file.<br />`require('orgdot-kharon4a-v01')`
+Require the package in your entry file.<br />`require('orgdot-kharon4a')`
 
-Then, use the font in your styles<br />`font-family: 'Kharon4a_v01';`
+Then, use the font in your styles<br />`font-family: 'Kharon4a';`
 
 ## About
 I'm NOT the owner of these fonts.<br />These are the collective work of the [Orgdot Consortium](http://www.orgdot.com).

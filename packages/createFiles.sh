@@ -27,9 +27,6 @@ _NPM_
 echo $folder/.gitignore
 
 cat << _GIT_ > $folder/.gitignore
-*.woff
-*.woff2
-*.css
 *.tgz
 _GIT_
 
