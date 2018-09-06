@@ -1212,7 +1212,7 @@ var Header = exports.Header = function (_Component) {
 			    size = _props.size;
 
 
-			var lala = function lala() {
+			var getHeaderSize = function getHeaderSize() {
 				switch (size) {
 					case "big":
 						return "250%";
@@ -1223,16 +1223,16 @@ var Header = exports.Header = function (_Component) {
 					case "small":
 						return "125%";
 						break;
-					//  default:
-					//    //Sentencias_def ejecutadas cuando no ocurre una coincidencia con los anteriores casos
-					//    break;
+					default:
+						return "250%";
+						break;
 				}
 			};
 			return _react2.default.createElement(
 				"h1",
 				{
 					style: {
-						fontSize: "" + lala(),
+						fontSize: getHeaderSize(),
 						textAlign: "left",
 						fontFamily: "Teachers Pet Sans Serif"
 					}
@@ -1940,4 +1940,4 @@ _reactDom2.default.render(_react2.default.createElement(_App2.default, null), do
 // Learn more about service workers: http://bit.ly/CRA-PWA
 serviceWorker.unregister();
 },{"react":"1n8/","react-dom":"NKHc","./index.css":"9BSY","./App":"eBcb","./serviceWorker":"Yw6x","../packages/orgdot-fixed-bold":"++j7","../packages/orgdot-fixed-v01":"XSL8","../packages/orgdot-fixed-v02":"OJiq","../packages/orgdot-fixed-v03":"17aM","../packages/orgdot-fixed-v05":"jtr0","../packages/orgdot-gab-net-bold":"7djZ","../packages/orgdot-gab-net-plain":"N1W6","../packages/orgdot-genown-v01":"fPxd","../packages/orgdot-kharon4a-bold":"dFIf","../packages/orgdot-kharon4amini":"HWh4","../packages/orgdot-kharon4a-v01":"yBgy","../packages/orgdot-org-v01":"B58L","../packages/orgdot-pixelpunch":"us+o","../packages/orgdot-serif-v01":"HzkA","../packages/orgdot-swfitslmfw":"PILw","../packages/orgdot-swft-v01":"se0C","../packages/orgdot-swft-v02":"BrnV","../packages/orgdot-teachers-pet":"7REQ","../packages/orgdot-teachers-pet-bold":"9Pll","../packages/orgdot-teachers-pet-sans-serif":"BRlA","../packages/orgdot-teachers-pet-sans-serif-bold":"y56R"}]},{},["2u/B"], null)
-//# sourceMappingURL=/orgdot-webfonts/src.0ad62b50.map
+//# sourceMappingURL=/orgdot-webfonts/src.d6bedc03.map
