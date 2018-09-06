@@ -1,6 +1,6 @@
 {
   "name": "orgdot-swfitslmfw",
-  "version": "0.0.0",
+  "version": "1.1.2",
   "description": "The CSS and web font files to easily self-host Orgdot swfit_slm_fw.",
   "main": "index.css",
   "keywords": [

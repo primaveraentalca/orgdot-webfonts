@@ -1,6 +1,6 @@
 {
   "name": "orgdot-fixed-v01",
-  "version": "0.0.0",
+  "version": "1.1.2",
   "description": "The CSS and web font files to easily self-host Orgdot fixed_v01.",
   "main": "index.css",
   "keywords": [
