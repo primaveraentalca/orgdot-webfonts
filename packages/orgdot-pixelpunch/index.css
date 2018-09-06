@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'pixelpunch';
+    src: local('pixelpunch'), local('Pixelpunch'),
+        url('Pixelpunch.woff2') format('woff2'),
+        url('Pixelpunch.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}

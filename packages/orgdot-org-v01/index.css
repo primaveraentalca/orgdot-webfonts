@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Org_v01';
+    src: local('Org_v01'), local('Orgv01'),
+        url('Orgv01.woff2') format('woff2'),
+        url('Orgv01.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}

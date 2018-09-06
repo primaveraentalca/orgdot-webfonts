@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'fixed_v01';
+    src: local('fixed_v01'), local('Fixedv01'),
+        url('Fixedv01.woff2') format('woff2'),
+        url('Fixedv01.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}

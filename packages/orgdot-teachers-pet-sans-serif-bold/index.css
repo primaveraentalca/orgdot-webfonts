@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Teachers Pet Sans Serif Bold';
+    src: local('Teachers Pet Sans Serif Bold'), local('TeachersPetSansSerifBold'),
+        url('TeachersPetSansSerifBold.woff2') format('woff2'),
+        url('TeachersPetSansSerifBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}

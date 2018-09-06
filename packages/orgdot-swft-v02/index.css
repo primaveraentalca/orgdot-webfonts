@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'SWF!T_v02';
+    src: local('SWF!T_v02'), local('SWFTv02'),
+        url('SWFTv02.woff2') format('woff2'),
+        url('SWFTv02.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}

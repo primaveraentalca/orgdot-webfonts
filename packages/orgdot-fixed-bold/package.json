@@ -1,0 +1,16 @@
+{
+  "name": "orgdot-fixed-bold",
+  "version": "0.0.0",
+  "description": "The CSS and web font files to easily self-host Orgdot fixed_bold.",
+  "main": "index.css",
+  "keywords": [
+    "orgdot",
+    "font",
+    "font family",
+    "web fonts",
+    "fixed_bold"
+  ],
+  "author": "primaveraentalca <primaveraentalca@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/primaveraentalca/orgdot-webfonts/tree/master/packages/orgdot-fixed-bold"
+}

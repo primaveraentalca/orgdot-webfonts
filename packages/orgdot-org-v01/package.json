@@ -1,0 +1,16 @@
+{
+  "name": "orgdot-org-v01",
+  "version": "0.0.0",
+  "description": "The CSS and web font files to easily self-host Orgdot Org_v01.",
+  "main": "index.css",
+  "keywords": [
+    "orgdot",
+    "font",
+    "font family",
+    "web fonts",
+    "org_v01"
+  ],
+  "author": "primaveraentalca <primaveraentalca@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/primaveraentalca/orgdot-webfonts/tree/master/packages/orgdot-org-v01"
+}

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'kharon4a_mini';
+    src: local('kharon4a_mini'), local('Kharon4amini'),
+        url('Kharon4amini.woff2') format('woff2'),
+        url('Kharon4amini.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}

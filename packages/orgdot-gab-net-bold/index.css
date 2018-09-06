@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'GAB.NET Bold';
+    src: local('GAB.NET Bold'), local('GABNETBold'),
+        url('GABNETBold.woff2') format('woff2'),
+        url('GABNETBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}

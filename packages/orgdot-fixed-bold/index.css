@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'fixed_bold';
+    src: local('fixed_bold'), local('Fixedbold'),
+        url('Fixedbold.woff2') format('woff2'),
+        url('Fixedbold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}

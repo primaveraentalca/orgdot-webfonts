@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'serif_v01';
+    src: local('serif_v01'), local('Serifv01'),
+        url('Serifv01.woff2') format('woff2'),
+        url('Serifv01.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
